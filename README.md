@@ -43,6 +43,17 @@ available on request at [auturis.com](https://auturis.com).
 
 ## About this repository
 
-The source code is not public. This page exists so that people looking for a
-tool like this on GitHub can find it. Questions or problems: open an issue,
-or email the address on [auturis.com](https://auturis.com).
+This page exists so that people looking for a tool like this on GitHub can
+find it. Questions or problems: open an issue, or email the address on
+[auturis.com](https://auturis.com).
+
+## Source and copyright
+
+Copyright (c) 2026 Michael Kurak. All rights reserved.
+
+The source is visible so that anyone can see how the system reasons: the
+browser version at [try.auturis.com](https://try.auturis.com) runs the real
+Auturis code, and you are welcome to read it there. No licence is granted to
+copy, modify, redistribute, or sell it, in whole or in part, whether as
+source, compiled, or translated into another language. For permissions, email
+the address on [auturis.com](https://auturis.com).
