@@ -17,21 +17,13 @@ It presses; it does not decide. You may find what it has to say truly
 informative, or it may tell you something you already knew, in which case
 you will have further support for your decision.
 
-## Try it now
+## Getting it
 
-**[try.auturis.com](https://try.auturis.com)** runs in your browser, with
-nothing to install and nothing to request. It needs your own Anthropic or
-Google (Gemini) API key; the key stays in your browser and goes only to the
-provider it came from. Describe a real situation, and it will help you find
-the rule your action rests on, then test it. (For those with a philosophical
-background: it isolates a maxim and runs a Categorical Imperative test on it.)
-
-No key yet? [Step-by-step instructions](https://auturis.com/key).
-
-The browser version is one part of Auturis. The full desktop app (Mac and
-Windows) adds a graph of your commitments, built up over time, and Decide,
-which weighs your options against it. It is in a closely managed beta,
-available on request at [auturis.com](https://auturis.com).
+Auturis runs as a desktop app on Mac and Windows. It adds a graph of your
+commitments, built up over time, and Decide, which weighs your options
+against it. It is in a closely managed beta, available on request at
+[auturis.com](https://auturis.com). It uses your own API key;
+[step-by-step instructions](https://auturis.com/key).
 
 ## More
 
@@ -43,17 +35,12 @@ available on request at [auturis.com](https://auturis.com).
 
 ## About this repository
 
-This page exists so that people looking for a tool like this on GitHub can
+The source code is not public. This page exists so that people looking for a tool like this on GitHub can
 find it. Questions or problems: open an issue, or email the address on
 [auturis.com](https://auturis.com).
 
-## Source and copyright
+## Copyright
 
-Copyright (c) 2026 Michael Kurak. All rights reserved.
-
-The source is visible so that anyone can see how the system reasons: the
-browser version at [try.auturis.com](https://try.auturis.com) runs the real
-Auturis code, and you are welcome to read it there. No licence is granted to
-copy, modify, redistribute, or sell it, in whole or in part, whether as
-source, compiled, or translated into another language. For permissions, email
-the address on [auturis.com](https://auturis.com).
+Copyright (c) 2026 Michael Kurak. All rights reserved. The source code is not
+public, and no licence is granted to copy, modify, redistribute, or sell any
+part of Auturis.
