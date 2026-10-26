@@ -1,0 +1,21 @@
+{
+  "name": "auturis",
+  "description": "Auturis for Claude Code: test a maxim, or check a rule or policy against the groups it binds, using your own Claude subscription. Needs the Auturis desktop app running.",
+  "owner": {
+    "name": "Michael Kurak",
+    "url": "https://auturis.com"
+  },
+  "plugins": [
+    {
+      "name": "auturis",
+      "displayName": "Auturis",
+      "description": "Test a maxim, or check a rule or policy against the groups it binds. Needs the Auturis desktop app running.",
+      "version": "0.13.1",
+      "source": {
+        "source": "archive",
+        "url": "https://auturis.com/plugin/auturis-plugin-0.13.1.zip",
+        "sha256": "75a2d3f0e897586bbd66e1e18f0e0f260491fcae8dd890f4a0436aacea04b06e"
+      }
+    }
+  ]
+}

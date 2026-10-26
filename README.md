@@ -25,6 +25,18 @@ against it. It is in a closely managed beta, available on request at
 [auturis.com](https://auturis.com). It uses your own API key;
 [step-by-step instructions](https://auturis.com/key).
 
+## Claude Code plug-in
+
+With the desktop app running, Auturis can also run in Claude Code on your own
+Claude subscription, with no API key:
+
+```
+/plugin marketplace add mdkurak-cell/auturis
+/plugin install auturis@auturis
+```
+
+The plug-in does nothing without the app; it connects to it on this computer.
+
 ## More
 
 - [Worked cases](https://auturis.com/exemplars): published group cases
