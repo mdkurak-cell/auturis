@@ -10,11 +10,11 @@
       "name": "auturis",
       "displayName": "Auturis",
       "description": "Test a maxim, or check a rule or policy against the groups it binds. Needs the Auturis desktop app running.",
-      "version": "0.14.1",
+      "version": "0.14.4",
       "source": {
         "source": "archive",
-        "url": "https://auturis.com/plugin/auturis-plugin-0.14.1.zip",
-        "sha256": "a3e43a7e36bcd71773801adb37cf57c60d40348b73ac9e0f29ad9c1b49dcdcaa"
+        "url": "https://auturis.com/plugin/auturis-plugin-0.14.4.zip",
+        "sha256": "d472a61af03e8df5a7e4e89165b7e3c996df3f05e3eefe602e0f770a7dd21643"
       }
     }
   ]
